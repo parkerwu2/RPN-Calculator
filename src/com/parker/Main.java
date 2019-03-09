@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Main {
 
-    // the entrance, input the numders and operator in the console, input "exit" to exit the programme
+    // the entrance, input the numders and operator in the console,
+    // input "exit" to exit the programme
     public static void main(String[] args) throws Exception {
         Scanner in = new Scanner(System.in);
         Calculator calculator = new Calculator();
